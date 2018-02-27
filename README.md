@@ -1,3 +1,3 @@
 # unbeatable_Tic_Tac_Toe_Ver2.0
-This version supports both desktop and mobile devices.
+This version supports both desktop and mobile devices. 
 The minimum width for desktop is 1000px.
