@@ -12,3 +12,4 @@ The minimum width for desktop is 1000px.
 
 <h3>The Game Window</h3>
 
+![screenshot_2018-04-25-00-05-02-781_com android chrome](https://user-images.githubusercontent.com/28590544/39207645-584db0cc-47b5-11e8-985b-f10d10aa969b.png)
